@@ -22,7 +22,7 @@
 
 ## all-student request Performance Testing
 ### Pre-optimization
-
+![img.png](README_assets/all-student-pre.png)
 
 ### Post-optimization
-![img.png](all-student-post.png)
+![img.png](README_assets/all-student-post.png)
